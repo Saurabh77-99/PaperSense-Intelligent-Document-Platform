@@ -1,17 +1,10 @@
-# Large files (store in Google Drive only)
 datasets/
 models/
 results/
 *.npy
 *.h5
-*.pkl
-*.csv
-*.json
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Jupyter
+*.joblib
+*.pth
+*.ckpt
 .ipynb_checkpoints
+.DS_Store

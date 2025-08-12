@@ -1,0 +1,12 @@
+mnist: datasets/mnist
+rvl_cdip: datasets/rvl_cdip
+docbank: datasets/docbank
+imdb: datasets/imdb
+wikitext103: datasets/wikitext103
+cnn_dailymail: datasets/cnn_dailymail
+cifar10: datasets/cifar10
+celeba: datasets/celeba
+publaynet: datasets/publaynet
+tablebank: datasets/tablebank
+funsd: datasets/funsd
+custom: datasets/custom
