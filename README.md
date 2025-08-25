@@ -10,8 +10,8 @@ It integrates **deep learning** models for vision, NLP, and multi-modal tasks, c
 ## 🎯 Technical Goal
 
  **Document Classification** → Identify document types (invoices, letters, forms, etc.)<br/>
- **Content Understanding** → Extract text, tables, and figures from documents.
- **AI Generation** → Create templates, summaries, and synthetic documents.
+ **Content Understanding** → Extract text, tables, and figures from documents.<br/>
+ **AI Generation** → Create templates, summaries, and synthetic documents.<br/>
  **Business Automation** → Sort, process, and analyze documents automatically.
 
 ---
